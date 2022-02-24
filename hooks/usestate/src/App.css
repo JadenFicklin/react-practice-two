@@ -1,0 +1,21 @@
+* {
+  font-family: sans-serif;
+}
+
+.first-name {
+  font-size: 72px;
+  position: absolute;
+  top: -60px;
+  left: 400px;
+  /* opacity: %; */
+}
+.last-name {
+  font-size: 72px;
+  position: absolute;
+  top: 160px;
+  left: 400px;
+}
+
+.p-tag {
+  width: 380px;
+}
